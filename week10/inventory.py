@@ -1,3 +1,9 @@
+#Reflection
+#1. It was a suprise to find out just how lists are able to be modified without removing any data.
+# It allows for so much flexibility in a list and makes it very useful.
+#2. In one of my classes, I had to organize a bunch of data into a table so it could be organized.
+# Had I known what I do now, instead of trying to do it in Excel, I could just do it with a few commands with a Python list.
+
 # Exercise 1
 print("--Exercise 1: Build a List--")
 
